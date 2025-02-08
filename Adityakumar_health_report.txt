@@ -1,0 +1,15 @@
+Health Report for Adityakumar
+Date: 2025-02-08 16:22:20
+
+Day: good
+Fever: yes
+Cough: yes
+Fatigue: no
+Difficulty breathing: no
+Age: 23
+Gender: male
+Blood pressure: normal
+Cholesterol level: normal
+
+Predicted Disease: Stroke
+Medical Advice: seek immediate medical attention and follow a rehabilitation plan.
